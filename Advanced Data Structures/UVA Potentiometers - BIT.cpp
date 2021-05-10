@@ -1,3 +1,4 @@
+// https://vjudge.net/problem/UVA-12086
 #include <bits/stdc++.h>
 #define S second
 #define F first
