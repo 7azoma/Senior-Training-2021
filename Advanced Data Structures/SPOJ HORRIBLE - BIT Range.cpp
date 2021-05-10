@@ -1,3 +1,4 @@
+https://www.spoj.com/problems/HORRIBLE/
 #include <bits/stdc++.h>
 #define S second
 #define F first
