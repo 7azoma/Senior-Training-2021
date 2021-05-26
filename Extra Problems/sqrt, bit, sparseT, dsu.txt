@@ -1,0 +1,83 @@
+DSU {
+	TIMUS - Anansi's Cobweb
+	Codeforces - Roads not only in Berland
+	TIMUS - Parity
+	SPOJ - Strange Food Chain
+	SPOJ - COLORFUL ARRAY
+	SPOJ - Consecutive Letters
+	Toph - Unbelievable Array
+	HackerEarth - Lexicographically minimal string
+	HackerEarth - Fight in Ninja World
+}
+
+sqrt_decompostion{
+	UVA - 12003 - Array Transformer
+	UVA - 11990 Dynamic Inversion
+	SPOJ - Give Away
+	Codeforces - Till I Collapse
+	Codeforces - Destiny
+	Codeforces - Holes
+	Codeforces - XOR and Favorite Number
+	Codeforces - Powerful array
+	SPOJ - DQUERY
+}
+
+bit{
+	UVA 12086 - Potentiometers
+	LOJ 1112 - Curious Robin Hood
+	LOJ 1266 - Points in Rectangle
+	Codechef - SPREAD
+	SPOJ - CTRICK
+	SPOJ - MATSUM
+	SPOJ - DQUERY
+	SPOJ - NKTEAM
+	SPOJ - YODANESS
+	SRM 310 - FloatingMedian
+	SPOJ - Ada and Behives
+	Hackerearth - Counting in Byteland
+	DevSkills - Shan and String
+	Codeforces - Little Artem and Time Machine
+	Codeforces - Hanoi Factory
+	SPOJ - Tulip and Numbers
+	SPOJ - SUMSUM
+	SPOJ - Sabir and Gifts
+	SPOJ - The Permutation Game Again
+	SPOJ - Zig when you Zag
+	SPOJ - Cryon
+	SPOJ - Weird Points
+	SPOJ - Its a Murder
+	SPOJ - Bored of Suffixes and Prefixes
+	SPOJ - Mega Inversions
+	Codeforces - Subsequences
+	Codeforces - Ball
+	GYM - The Kamphaeng Phet's Chedis
+	Codeforces - Garlands
+	Codeforces - Inversions after Shuffle
+	GYM - Cairo Market
+	Codeforces - Goodbye Souvenir
+	SPOJ - Ada and Species
+	Codeforces - Thor
+	Latin American Regionals 2017 - Fundraising
+}
+
+sparse_table{
+	SPOJ - RMQSQ
+	SPOJ - THRBL
+	Codechef - MSTICK
+	Codechef - SEAD
+	Codeforces - CGCDSSQ
+	Codeforces - R2D2 and Droid Army
+	Codeforces - Maximum of Maximums of Minimums
+	SPOJ - Miraculous
+	DevSkills - Multiplication Interval
+	Codeforces - Animals and Puzzles
+	Codeforces - Trains and Statistics
+	SPOJ - Postering
+	SPOJ - Negative Score
+	SPOJ - A Famous City
+	SPOJ - Diferencija
+	Codeforces - Turn off the TV
+	Codeforces - Map
+	Codeforces - Awards for Contestants
+	Codeforces - Longest Regular Bracket Sequence
+}
