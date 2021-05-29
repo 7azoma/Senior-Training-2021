@@ -53,11 +53,6 @@ void ShortestPath ( int src ){
 int main()
 {
 
-
-//    #ifdef LOCAL
-//        freopen("input.txt", "r", stdin);
-//        freopen("output.txt", "w", stdout);
-//    #endif // LOCAL
     int m;
     scanf("%d%d",&m,&n);
 
