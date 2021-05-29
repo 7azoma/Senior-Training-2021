@@ -63,30 +63,6 @@ bool bellman( int src ){
 
 }
 
-void ShortestPath ( int src ){
-    memset ( dis , 0x3f , sizeof (dis[0])*n ) ;
-    dis[src] = 0 ;
-    priority_queue <pair<int,int>> pq ;
-    pq.push(make_pair(0,src)) ;
-    while ( pq.size() ){
-        int u , d ;
-        d = -pq.top().first ;
-        u = pq.top().second ;
-
-        pq.pop() ;
-        if ( d != dis[u] )
-            continue ;
-        for ( int e = head[u] ; ~e ; e = nxt[e] ){
-            int v = to[e] ;
-            if ( dis[v] > d + cost[e] ){
-                dis[v] = d + cost[e] ;
-                pq.push( make_pair(-dis[v] , v) ) ;
-            }
-        }
-
-    }
-
-}
 int main()
 {
 
