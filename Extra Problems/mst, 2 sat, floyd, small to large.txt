@@ -1,0 +1,73 @@
+mst
+
+SPOJ - MaryBMW
+Codechef - Fullmetal Alchemist
+UVA 12176 - Bring Your Own Horse
+UVA 11710 - Expensive subway
+Codechef - Chefland and Electricity
+Codeforces - Flea
+Codeforces - Igon in Museum
+Codeforces - Hongcow Builds a Nation
+DevSkills - Repairing Road
+UVA - 908 - Re-connecting Computer Sites
+UVA 1235 - Anti Brute Force Lock
+UVA 11228 - Transportation system
+UVA 11733 - Airports
+SPOJ - Blinet
+SPOJ - Help the Old King
+Codeforces - Hierarchy
+SPOJ - Modems
+CSES - Road Reparation
+CSES - Road Construction
+
+=====================================================================
+
+2 sat
+
+UVA: Rectangles
+Codeforces : Radio Stations
+CSES : Giant Pizza
+
+=====================================================================
+
+
+floyed
+
+UVA: Page Hopping
+SPOJ: Possible Friends
+SPOJ: CHICAGO - 106 miles to Chicago
+UVA 117 - The Postal Worker Rings Once
+UVA - 1198 - The Geodetic Set Problem
+LOJ - Travel Company
+UVA 423 - MPI Maelstrom
+UVA 1416 - Warfare And Logistics
+UVA 10793 - The Orc Attack
+UVA 13211 - Geonosis
+SPOJ - Defend the Rohan
+GYM - Manic Moving (C)
+SPOJ - Arbitrage
+UVA - 12179 - Randomly-priced Tickets
+LOJ - 1086 - Jogging Trails
+SPOJ - Ingredients
+CSES - Shortest Routes II
+UVA 1233
+
+=====================================================================
+
+
+small to large (sack dsu on tree)
+
+
+Sgu507 (SGU is unavailable, read the problem statements here) This problem is also good for the start.
+
+HackerEarth, The Grass Type This problem is also good for start (See bhishma's comment below).
+
+208E - Blood Cousins : 16897324
+
+IOI 2011, Race (See SaYami's comment below).
+
+291E - Tree-String Problem : See bhargav104's comment below.
+
+716E - Digit Tree : 20776957 A hard problem. Also can be solved with centroid decomposition.
+
+741D - Arpa’s letter-marked tree and Mehrdad’s Dokhtar-kosh paths : 22796438 A hard problem. You must be very familiar with Dsu on tree to solve it.
